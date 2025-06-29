@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShortYard941746
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning VB.NET,WPF and C
+- 🌱 I’m currently learning VB.NET,WPF,C,C++,Python and C#
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me (I can't say)
 - 😄 Pronouns: none
